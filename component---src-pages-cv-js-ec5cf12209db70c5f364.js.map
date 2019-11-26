@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/pages/cv.js"],"names":["CV"],"mappings":"6FAAA,gCAUeA,UARJ,WACT,OACE,6BACE","file":"component---src-pages-cv-js-ec5cf12209db70c5f364.js","sourcesContent":["import React from \"react\";\n\nconst CV = () => {\n  return (\n    <div>\n      <h1>Test</h1>\n    </div>\n  );\n};\n\nexport default CV;\n"],"sourceRoot":""}
